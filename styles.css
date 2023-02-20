@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+h2{
+	width: 100vh;
+	text-align: center;
+}
+
+form{
+	display: flex;
+	width: 100vh;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	box-shadow: 0 0 8px 0px #999;
+}
+
+.mb-3{
+	padding: 10px
+}
+
+button{
+	margin: 10px 0;
+	background: royalblue;
+	border: none;
+	padding: 5px;
+	border-radius: 2px;
+}
+
+
